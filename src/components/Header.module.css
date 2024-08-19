@@ -1,0 +1,16 @@
+.header{
+    height: 10vh;
+    width: 100%;
+    margin-top: 15px;
+    background-color: #A882DD;
+    border-radius: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.appName{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+}

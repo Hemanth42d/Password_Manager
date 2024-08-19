@@ -1,0 +1,15 @@
+
+.textContainer{
+    /* border: 2px solid red; */
+    width: 495px;
+    height: 495px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text{
+    font-size: 64px;
+    text-align: left;
+}

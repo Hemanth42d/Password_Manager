@@ -1,0 +1,18 @@
+.footer{
+    position: absolute;
+    bottom: 15px;
+    height: 10vh;
+    width: 100%;
+    background-color: #A882DD;
+    border-radius: 44px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.name{
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    padding-right: 50px;
+}
